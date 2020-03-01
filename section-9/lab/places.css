@@ -1,0 +1,15 @@
+html {
+    font-family: 'Quicksand';
+}
+
+h2 {
+    line-height: .5;
+}
+
+li {
+    line-height: 2;
+}
+
+ul {
+    list-style-type: square;
+}

@@ -1,0 +1,14 @@
+html {
+    font-family: cursive;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+li {
+    font-size: 1.5em;
+    font-style: bold;
+}
+
+footer {
+    margin-top: 50px;
+}
