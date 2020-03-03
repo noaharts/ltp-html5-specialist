@@ -1,0 +1,14 @@
+a:link {
+    color: brown;
+    font-style: italic;
+    text-decoration: none;
+}
+a:visited {
+    color: brown;
+}   
+a:hover {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: italic
+}
